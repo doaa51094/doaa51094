@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doaa Mohammed</h1>
-<h3 align="center">Front end web developer from Alexandria</h3>
+<h3 align="center">Front-end Web Developer/h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/doaa51094](https://github.com/doaa51094)
 
