@@ -11,7 +11,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/doaa-mohamed-31003b21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doaa-mohamed-31003b21b" height="30" width="40" /></a>
 </p>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science and Statistics at University of Alexandria, Faculty of science.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
