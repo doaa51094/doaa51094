@@ -30,6 +30,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hassantali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hassan%20T%20Ali-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:hassantarekha@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hassantarekha@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/doaa-mohamed-31003b21b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-doaa%20T%20mohamed-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:doaa51094@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-doaa51094@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
