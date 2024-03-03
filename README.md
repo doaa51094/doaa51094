@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/doaa51094](https://github.com/doaa51094)
 
-- 💬 Ask me about **React , SCSS , JavaScript and TypeScript**
+- 💬 Ask me about **React.JS , Next.js , SCSS , JavaScript and TypeScript**
 
 - 📫 How to reach me **doaa51094@gmail.com**
 
